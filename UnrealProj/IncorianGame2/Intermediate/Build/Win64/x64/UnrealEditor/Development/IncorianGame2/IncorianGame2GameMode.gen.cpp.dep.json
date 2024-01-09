@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "r:\\incoregamedevs\\unrealkam\\unrealproj\\incoriangame2\\intermediate\\build\\win64\\unrealeditor\\inc\\incoriangame2\\uht\\incoriangame2gamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "r:\\incoregamedevs\\unrealkam\\unrealproj\\incoriangame2\\intermediate\\build\\win64\\x64\\incoriangame2editor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "r:\\incoregamedevs\\unrealkam\\unrealproj\\incoriangame2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\incoriangame2\\definitions.incoriangame2.h",
+            "r:\\incoregamedevs\\unrealkam\\unrealproj\\incoriangame2\\source\\incoriangame2\\incoriangame2gamemode.h",
+            "g:\\unreal_install\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "g:\\unreal_install\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "g:\\unreal_install\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "g:\\unreal_install\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "r:\\incoregamedevs\\unrealkam\\unrealproj\\incoriangame2\\intermediate\\build\\win64\\unrealeditor\\inc\\incoriangame2\\uht\\incoriangame2gamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "IncorianGame2",
+			"Path": "..\\Source\\IncorianGame2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "IncorianGame2Editor",
+			"Path": "..\\Source\\IncorianGame2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

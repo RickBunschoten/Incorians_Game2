@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "r:\\incoregamedevs\\unrealkam\\unrealproj\\incoriangame2\\intermediate\\build\\win64\\unrealeditor\\inc\\incoriangame2\\uht\\incoriangame2character.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "r:\\incoregamedevs\\unrealkam\\unrealproj\\incoriangame2\\intermediate\\build\\win64\\x64\\incoriangame2editor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "r:\\incoregamedevs\\unrealkam\\unrealproj\\incoriangame2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\incoriangame2\\definitions.incoriangame2.h",
+            "r:\\incoregamedevs\\unrealkam\\unrealproj\\incoriangame2\\source\\incoriangame2\\incoriangame2character.h",
+            "g:\\unreal_install\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "g:\\unreal_install\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "g:\\unreal_install\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "g:\\unreal_install\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "g:\\unreal_install\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "g:\\unreal_install\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "g:\\unreal_install\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "g:\\unreal_install\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "r:\\incoregamedevs\\unrealkam\\unrealproj\\incoriangame2\\intermediate\\build\\win64\\unrealeditor\\inc\\incoriangame2\\uht\\incoriangame2character.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

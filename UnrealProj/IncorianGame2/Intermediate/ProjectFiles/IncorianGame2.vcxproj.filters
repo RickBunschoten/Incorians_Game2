@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\IncorianGame2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\IncorianGame2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\IncorianGame2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\IncorianGame2">
+      <UniqueIdentifier>{6DA89572-81EE-3EB7-B851-E21EDC69B830}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\IncorianGame2\IncorianGame2.Build.cs">
+      <Filter>Source\IncorianGame2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\IncorianGame2\IncorianGame2.cpp">
+      <Filter>Source\IncorianGame2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IncorianGame2\IncorianGame2.h">
+      <Filter>Source\IncorianGame2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IncorianGame2\IncorianGame2Character.cpp">
+      <Filter>Source\IncorianGame2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IncorianGame2\IncorianGame2Character.h">
+      <Filter>Source\IncorianGame2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IncorianGame2\IncorianGame2GameMode.cpp">
+      <Filter>Source\IncorianGame2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IncorianGame2\IncorianGame2GameMode.h">
+      <Filter>Source\IncorianGame2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IncorianGame2\IncorianGame2PlayerController.cpp">
+      <Filter>Source\IncorianGame2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IncorianGame2\IncorianGame2PlayerController.h">
+      <Filter>Source\IncorianGame2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

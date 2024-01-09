@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "r:\\incoregamedevs\\unrealkam\\unrealproj\\incoriangame2\\intermediate\\build\\win64\\unrealeditor\\inc\\incoriangame2\\uht\\incoriangame2playercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "r:\\incoregamedevs\\unrealkam\\unrealproj\\incoriangame2\\intermediate\\build\\win64\\x64\\incoriangame2editor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "r:\\incoregamedevs\\unrealkam\\unrealproj\\incoriangame2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\incoriangame2\\definitions.incoriangame2.h",
+            "r:\\incoregamedevs\\unrealkam\\unrealproj\\incoriangame2\\source\\incoriangame2\\incoriangame2playercontroller.h",
+            "r:\\incoregamedevs\\unrealkam\\unrealproj\\incoriangame2\\intermediate\\build\\win64\\unrealeditor\\inc\\incoriangame2\\uht\\incoriangame2playercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
